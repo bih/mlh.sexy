@@ -1,5 +1,3 @@
-# [UKIP.sexy](http://ukip.sexy)
+# [MLH.sexy](http://mlh.sexy)
 
-An all-round good idea.
-
-It's neither big nor clever. File PRs to add stuff.
+Forked from [NotBobTheBuilder](https://github.com/NotBobTheBuilder/ukip.sexy) aka [@JackWeirdy](http://twitter.com/JackWeirdy)
